@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>a0d335b9-8e5f-4a84-8458-35811b795636</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>mainPackage\main.py</StartupFile>
+    <StartupFile>mainPackage\elmorels.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="mainPackage\crookscl.py" />
+    <Compile Include="mainPackage\elmorels.py" />
     <Compile Include="mainPackage\main.py" />
+    <Compile Include="mainPackage\shinkecj.py" />
     <Compile Include="mainPackage\__init__.py">
       <SubType>Code</SubType>
     </Compile>
