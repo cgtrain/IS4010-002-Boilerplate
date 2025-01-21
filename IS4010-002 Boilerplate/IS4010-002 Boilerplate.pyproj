@@ -23,6 +23,7 @@
   <ItemGroup>
     <Compile Include="mainPackage\elmorels.py" />
     <Compile Include="mainPackage\main.py" />
+    <Compile Include="mainPackage\shinkecj.py" />
     <Compile Include="mainPackage\__init__.py">
       <SubType>Code</SubType>
     </Compile>
